@@ -5,7 +5,7 @@ PhishSense is a comprehensive cybersecurity tool that detects phishing URLs usin
 ## 🌟 Features
 
 - **Dual Detection System**: Combines ML-based classification with heuristic rule-based detection
-- **29 Feature Analysis**: Extracts and analyzes 29 different URL features including:
+- **Feature Analysis**: Extracts and analyzes 29 different URL features including:
   - URL structure and length analysis
   - Domain age and SSL certificate validation
   - Suspicious keyword detection

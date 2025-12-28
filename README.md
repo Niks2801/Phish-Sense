@@ -1,8 +1,8 @@
-# 🛡️ PhishSense - Advanced Phishing URL Detection System (CLI)
+#  PhishSense - Advanced Phishing URL Detection System (CLI)
 
 PhishSense is a comprehensive cybersecurity tool that detects phishing URLs using a combination of machine learning algorithms and heuristic analysis. It analyzes multiple features of URLs to identify potential phishing attempts with high accuracy.
 
-## 🌟 Features
+## Features
 
 - **Dual Detection System**: Combines ML-based classification with heuristic rule-based detection
 - **Feature Analysis**: Extracts and analyzes different URL features including:
@@ -17,7 +17,7 @@ PhishSense is a comprehensive cybersecurity tool that detects phishing URLs usin
 - **Detailed Reporting**: Provides specific reasons for phishing detection
 - **JSON Output**: Supports JSON output for scripting and automation
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,7 +26,7 @@ PhishSense is a comprehensive cybersecurity tool that detects phishing URLs usin
 - [Interview Explanation](#interview-explanation)
 - [License](#license)
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ This will use the sample datasets in `data/` directory. You can replace them wit
 
 See [DATASET_GUIDE.md](DATASET_GUIDE.md) for detailed information on using ZIP datasets.
 
-## 💻 Usage
+##  Usage
 
 ### Command Line Interface
 
@@ -113,7 +113,7 @@ print(f"Threat Level: {result['threat_level']}")
 print(f"Reasons: {result['reasons']}")
 ```
 
-## 🔍 How It Works
+## How It Works
 
 ### Detection Pipeline
 
@@ -158,7 +158,7 @@ print(f"Reasons: {result['reasons']}")
 | **Network** | DNS records, IP addresses |
 | **Behavior** | Shortened URLs, redirects |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PhishSense/

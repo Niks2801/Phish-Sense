@@ -23,7 +23,6 @@ PhishSense is a comprehensive cybersecurity tool that detects phishing URLs usin
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Project Structure](#project-structure)
-- [Interview Explanation](#interview-explanation)
 - [License](#license)
 
 ## Installation
